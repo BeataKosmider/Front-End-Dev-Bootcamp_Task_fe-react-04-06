@@ -1,3 +1,5 @@
+# Task performed during Front-End Developer Bootcamp
+
 Przygotuj licznik (komponent nazwij Counter), który zaczyna odliczanie od 5 do 0 po uruchomieniu aplikacji. Wyświetl aktualną wartość w H1. W momencie osiągnięcia wartości 0, podmień zawartość H1 na “Boom!”.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
